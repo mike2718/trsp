@@ -1,0 +1,5 @@
+
+[S-band data downlink]
+DOWN_LOW=2273480000
+DOWN_HIGH=2273480000
+MODE=FM

@@ -1,0 +1,5 @@
+
+[LoRa telemetry]
+DOWN_LOW=435575000
+MODE=LoRa
+BAUD=62500

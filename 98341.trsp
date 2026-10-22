@@ -1,0 +1,5 @@
+
+[Mode U - Transmitter]
+DOWN_LOW=401414500
+MODE=FSK AX.100 Mode 5
+BAUD=1200

@@ -1,0 +1,5 @@
+
+[Mode U Lora - Transmitter]
+DOWN_LOW=401240000
+DOWN_HIGH=401240000
+MODE=LoRa

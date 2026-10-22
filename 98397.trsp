@@ -1,0 +1,13 @@
+
+[S-Band BPSK]
+DOWN_LOW=2279100000
+MODE=BPSK
+
+[Mode U - GMSK4k8 - AX.25 (active after command)]
+DOWN_LOW=400960000
+MODE=GMSK
+BAUD=4800
+
+[Mode U - CW - Beacon]
+DOWN_LOW=400960000
+MODE=CW

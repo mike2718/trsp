@@ -1,0 +1,5 @@
+
+[Mode U - Transmitter]
+DOWN_LOW=400350000
+MODE=FSK
+BAUD=4800

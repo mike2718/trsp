@@ -1,0 +1,12 @@
+
+[Mode U - Transmitter]
+DOWN_LOW=401050000
+MODE=FM
+
+[Mode S - Transmitter]
+DOWN_LOW=2281000000
+MODE=FM
+
+[Mode X - Transmitter]
+DOWN_LOW=8200000000
+MODE=FM

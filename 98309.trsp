@@ -1,0 +1,5 @@
+
+[Mode S - Transmitter - 132.7 kbps - 440KHz width]
+DOWN_LOW=2229500000
+DOWN_HIGH=2229500000
+MODE=FM

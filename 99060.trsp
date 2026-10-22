@@ -1,0 +1,6 @@
+
+[Mode U - GFSK9k6 - EnduroSat UHF Transceiver Type II]
+UP_LOW=437120000
+DOWN_LOW=437120000
+MODE=GFSK
+BAUD=9600

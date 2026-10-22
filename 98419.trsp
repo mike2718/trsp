@@ -1,0 +1,9 @@
+
+[Mode S - Transmitter]
+DOWN_LOW=2240000000
+MODE=FM
+
+[UHF 9k6 Telemetry]
+DOWN_LOW=401050000
+MODE=GMSK
+BAUD=9600

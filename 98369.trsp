@@ -1,0 +1,9 @@
+
+[Mode S - Transmitter]
+DOWN_LOW=2218000000
+MODE=FM
+
+[Mode U - Transmitter]
+DOWN_LOW=401550000
+MODE=FSK AX.100 Mode 5
+BAUD=9600

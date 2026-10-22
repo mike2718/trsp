@@ -1,0 +1,5 @@
+
+[Mode S - Transmitter]
+DOWN_LOW=2200
+DOWN_HIGH=2200
+MODE=FM

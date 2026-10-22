@@ -1,0 +1,5 @@
+
+[Mode U - Transmitter]
+DOWN_LOW=401025000
+MODE=GMSK
+BAUD=4800

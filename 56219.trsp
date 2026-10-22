@@ -1,0 +1,5 @@
+
+[Mode U - Transmitter]
+DOWN_LOW=914700000
+DOWN_HIGH=914700000
+MODE=FM

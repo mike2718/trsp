@@ -1,0 +1,6 @@
+
+[S-band TT&C transceiver (operator-provided)]
+UP_LOW=2056600000
+DOWN_LOW=2245300000
+MODE=QPSK
+BAUD=5000000

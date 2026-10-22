@@ -1,0 +1,10 @@
+
+[Mode U - CW (interval 5min) (20 wpm, Time Unit = 60 ms, Dot = 60 ms , Dash = 18]
+DOWN_LOW=400500000
+MODE=CW
+BAUD=20
+
+[UHF Telemetry | BFSK | Mod Index 1 | Data Rate 50 kbps]
+DOWN_LOW=400500000
+MODE=FSK
+BAUD=50000

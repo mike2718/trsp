@@ -1,0 +1,6 @@
+
+[BlackCAT Transmitter: 2GFSK, 2400 baud, TX power 3.01 dbW, min antenna gain -4 ]
+DOWN_LOW=401050000
+DOWN_HIGH=401050000
+MODE=GFSK
+BAUD=2400
